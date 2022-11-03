@@ -4,9 +4,9 @@ Tools Used:
 Python, Numpy, Pandas, Matplotlib, Seaborn, Sklearn, Math, VScode, Github, Git.
 
 Inspiration:
-I built this model after reading of the recent heavy rainfall in Nigeria which has displaced more than 3000 people away from their homes. I hope to use this model to help the situation in Nigeria.
+I built this model after reading of the recent heavy rainfall in Nigeria which has displaced more than 3000 people away from their homes. I currently do'nt have a dataset with the records of rainfall in Nigeria so i used the one for India!
 
-Date Created: 28 October 2022 
+Date Created: 1 October 2022.
 
 Contributors:
 Gideon Ogunbanjo.
