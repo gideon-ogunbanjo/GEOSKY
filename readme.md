@@ -1,5 +1,5 @@
 # GEOSKY
-GEOSKY is a Machine Learning Model that predicts rainfall..
+GEOSKY is a Machine Learning Model that predicts rainfall....
 
 ## Tools Used:
 Python, Numpy, Pandas, Matplotlib, Seaborn, Sklearn, Math, VSCode, Github, Git, Google.
